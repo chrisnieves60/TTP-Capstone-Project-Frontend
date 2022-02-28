@@ -29,7 +29,6 @@ import "./App.scss"
   const renderContent = () => (
     <>
       <div className="homegrid">
-<div data-aos = "flip-up" className="homeboxes">
 
           <p>
             
@@ -45,7 +44,7 @@ import "./App.scss"
             </div>
           </p>
         </div>
-        </div>
+        
  
       </>
   );
