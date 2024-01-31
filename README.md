@@ -1,5 +1,5 @@
 ## NOTE: 
-This web app relies on backend servers hosted on Supabase. If you encounter any issues with the website, please be aware that it may not work as expected if Supabase servers are paused. 
+This web app relies on backend servers hosted on Supabase. If you encounter any issues with the website, please be aware that it **may not work as expected if Supabase servers are paused**
 
 # GGC (Goat Grade Collectibles)
 Goat Grade Collectibles (GGC) is a dynamic web application that offers an exciting alternative to traditional gambling. Built with technologies like PostgreSQL, Express, React, and Node.js, this platform lets users experience the thrill of opening trading card packs without the risks associated with gambling. Whether you're a sports fan or just love collectibles, GGC brings a safe and engaging way to test your luck and collect cards of your favorite players.
